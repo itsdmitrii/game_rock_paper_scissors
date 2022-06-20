@@ -12,6 +12,6 @@ Scissors cut paper.
 
 - <b>Python</b> 
 
-<h2>Any of this characters will be used in the password: :</h2>
+
 
 
